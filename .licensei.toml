@@ -1,0 +1,14 @@
+approved = [
+  "mit",
+  "gpl-3.0-only",
+  "gpl-3.0",
+  "apache-2.0",
+  "bsd-3-clause",
+  "bsd-2-clause",
+  "mpl-2.0",
+]
+ignored = [
+    "github.com/gogo/protobuf",
+    "github.com/golangci/gofmt",
+    "github.com/pelletier/go-buffruneio"
+]
